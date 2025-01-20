@@ -1,0 +1,41 @@
+.contact-section1 {
+  padding: 50px 0;
+}
+.contact-section1 table {
+  width: 50%;
+  margin: auto;
+}
+.contact-section1 table,
+td {
+  padding: 7px;
+}
+.contact-section1 label {
+  font-size: 12px;
+  color: #75818a;
+}
+.contact-section1 input {
+  padding: 10px;
+  border: none;
+  background-color: #f6f7f9;
+  width: 100%;
+  border-radius: 5px;
+}
+.contact-section1 .input-text {
+  height: 150px;
+}
+
+.kirimBtn {
+  text-align: center;
+  padding: 15px 0;
+}
+.kirimBtn button {
+  background-color: #0193dc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  width: 150px;
+}
+.contact-section2 {
+  padding: 50px 0;
+}
