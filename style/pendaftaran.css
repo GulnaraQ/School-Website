@@ -1,0 +1,49 @@
+.pendaftaran-bannerInfo {
+  background: url(../images/banner.png) no-repeat center;
+  background-size: cover;
+}
+.banner-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+.banner-links a {
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+}
+.banner-link-left a {
+  margin-right: 40px;
+}
+.banner-link-right {
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 10px;
+  width: 180px;
+  text-align: center;
+}
+.pandaftranInfo {
+  padding: 60px 0;
+}
+.pandaftranTitle {
+  width: 70%;
+  margin: auto;
+  color: white;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: center;
+}
+.daftarBtn {
+  margin-top: 30px;
+  text-align: center;
+}
+.daftarBtn button {
+  width: 200px;
+  padding: 15px;
+  background-color: #0193dc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
