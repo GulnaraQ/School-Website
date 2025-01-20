@@ -14,17 +14,12 @@ body {
   font-family: open-sans-regular;
 }
 
-header {
-  background: url(../images/banner.png) no-repeat center;
-  background-size: cover;
-}
 .navbarBackground {
   background-color: #101524;
 }
 .container {
   width: 1000px;
   margin: auto;
-  border: 2px solid white;
 }
 .container .navbar {
   height: 80px;
@@ -63,3 +58,28 @@ header {
   width: 100%;
 }
 /* navbar css end */
+
+.banner-info {
+  text-align: center;
+  background: url(../images/aboutBanner.png) no-repeat center;
+  background-size: cover;
+}
+.banner-info h1 {
+  color: white;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 1px;
+}
+.banner-info p {
+  margin-top: 40px;
+  color: #dfdfdf;
+  letter-spacing: 0.5px;
+  font-size: 14px;
+}
+.banner-info .container {
+  padding: 100px 0;
+}
+/* header style end */
+
+.about-section1 {
+}
