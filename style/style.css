@@ -205,6 +205,9 @@ header {
   line-height: 22px;
   margin-bottom: 15px;
 }
+.left-box-img img {
+  border-radius: 4px;
+}
 .left-box-info h3 {
   font-size: 16px;
   letter-spacing: 0.3px;
@@ -248,4 +251,43 @@ header {
 }
 .right-box-icon {
   width: 22px;
+}
+/* section3 end */
+
+.section4 {
+  background-color: #f9fbfd;
+  padding: 70px 0;
+}
+.section4-title {
+  font-size: 24px;
+  margin-bottom: 25px;
+}
+.section4-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: space-between;
+}
+.section4-box {
+  width: 31%;
+}
+.section4-box img {
+  width: 100%;
+}
+.section4-btn {
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4-btn a {
+  display: inline-block;
+  background-color: #0193dc;
+  width: 200px;
+  padding: 10px 25px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 4px;
+  font-size: 14px;
 }
