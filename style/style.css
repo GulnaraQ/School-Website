@@ -59,6 +59,7 @@ header {
   width: 100%;
 }
 /* navbar css end */
+
 .bannerInfo {
   padding: 80px 0;
   color: white;
@@ -84,7 +85,32 @@ header {
   border-radius: 5px;
   letter-spacing: 0.7px;
 }
-/* header end */
+/*home header end */
+
+.navbarBackground {
+  background-color: #101524;
+}
+.banner-info {
+  text-align: center;
+  background: url(../images/aboutBanner.png) no-repeat center;
+  background-size: cover;
+}
+.banner-info h1 {
+  color: white;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 1px;
+}
+.banner-info p {
+  margin-top: 40px;
+  color: #dfdfdf;
+  letter-spacing: 0.5px;
+  font-size: 14px;
+}
+.banner-info .container {
+  padding: 100px 0;
+}
+/* header style end */
 
 .section1 {
   display: flex;
