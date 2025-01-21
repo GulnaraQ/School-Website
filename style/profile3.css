@@ -23,3 +23,51 @@
 .banner-images-box img {
   width: 100%;
 }
+/* header end */
+
+.profile3-section1 {
+  padding: 50px 0;
+}
+.profile3-section1-title {
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+.p3-boxes {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.p3-left-boxes {
+  border-radius: 5px;
+  line-height: 35px;
+  width: 30%;
+  background-color: #2ba7e2;
+  color: white;
+}
+.p3-left-boxes p {
+  color: #dfdfdf;
+}
+.p3-left-boxes .box {
+  padding: 20px 0 40px;
+}
+.p3-right-boxes {
+  padding: 20px;
+  line-height: 30px;
+  width: 65%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+.p3-right-boxes .box {
+  padding: 5px;
+  width: 45%;
+  background-color: #f9fbfd;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  height: 330px;
+}
+/* p3-boxes css end */
