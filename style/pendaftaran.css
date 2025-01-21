@@ -47,3 +47,28 @@
   border: none;
   border-radius: 4px;
 }
+/* header css end */
+
+.pendaftaran-info {
+  padding: 50px;
+}
+.pendaftaran-info .container {
+  border: 1px solid #dfdfdf;
+  text-align: center;
+  border-radius: 5px;
+}
+.pendaftaran-info h2 {
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #2ba7e2;
+  color: white;
+}
+.pendaftaran-info p {
+  font-size: 14px;
+  line-height: 25px;
+  margin: 25px auto;
+  width: 70%;
+  color: #3a4e50;
+}
+/* section css end */
