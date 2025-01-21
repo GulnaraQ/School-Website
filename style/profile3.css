@@ -1,0 +1,25 @@
+.profile-bannerInfo {
+  padding: 50px 0;
+  text-align: center;
+  color: white;
+}
+.profile-bannerInfo h1 {
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 1px;
+}
+.profile-bannerInfo p {
+  font-size: 17px;
+  padding: 5px;
+}
+.banner-images {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.banner-images-box {
+  width: 23%;
+}
+.banner-images-box img {
+  width: 100%;
+}
