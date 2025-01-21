@@ -322,7 +322,6 @@ header {
 .footer {
   background-color: #f9f9f9;
   padding-top: 30px;
-  margin-top: 50px;
 }
 .footer .container {
   padding-top: 30px;
@@ -349,8 +348,8 @@ header {
 .footer-box2 {
   width: 15%;
 }
-.footer-box2 ul,
-.footer-box3 ul {
+.footer-box2 a,
+.footer-box3 a {
   font-size: 14px;
   font-weight: 700;
   line-height: 30px;
