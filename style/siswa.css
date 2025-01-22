@@ -1,0 +1,29 @@
+.siswa-section {
+  padding: 50px 0;
+}
+.table-title {
+  margin: 20px 0;
+  font-size: 24px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.siswa-table {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+table,
+td {
+  text-align: center;
+  padding: 7px 10px;
+  border: 1.5px solid #dfdfdf;
+  border-collapse: collapse;
+  font-size: 18px;
+}
+.table-blue {
+  background-color: #2ba7e2;
+  color: white;
+}
+.table-lightPurple {
+  background-color: #b9caff;
+}
