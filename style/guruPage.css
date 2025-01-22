@@ -34,6 +34,12 @@
   justify-content: center;
   align-items: center;
 }
+.guru-section-img img:hover {
+  width: 55%;
+  transition: 0.8s;
+  box-shadow: 0 2px 4px 0 rgba(137, 133, 133, 0.1),
+    0 3px 10px 0 rgba(150, 146, 146, 0.19);
+}
 .guru-section1-box table,
 td,
 th {

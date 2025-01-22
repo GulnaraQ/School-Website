@@ -85,6 +85,12 @@ header {
   border-radius: 5px;
   letter-spacing: 0.7px;
 }
+.BTN:hover {
+  background-color: white;
+  color: #0193dc;
+  border: 1px solid #0193dc;
+  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
 /*home header end */
 
 .navbarBackground {
@@ -185,6 +191,11 @@ header {
   box-shadow: 0 2px 4px 0 rgba(137, 133, 133, 0.1),
     0 3px 10px 0 rgba(150, 146, 146, 0.19);
 }
+.section2-right-box:hover {
+  background-color: lightskyblue;
+  transition: 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  padding: 30px;
+}
 .section2-right-box h3 {
   font-size: 20px;
   margin-top: 10px;
@@ -233,6 +244,12 @@ header {
 }
 .left-box-img img {
   border-radius: 4px;
+}
+.left-box-img img:hover {
+  transition: 0.3s cubic-bezier(0.895, 0.03, 0.685, 0.22);
+  border-radius: 20%;
+  box-shadow: 0 2px 4px 0 rgba(137, 133, 133, 0.1),
+    0 3px 10px 0 rgba(150, 146, 146, 0.19);
 }
 .left-box-info h3 {
   font-size: 16px;
@@ -296,6 +313,10 @@ header {
 }
 .section4-box {
   width: 31%;
+}
+.section4-box:hover {
+  width: 32%;
+  transition: 0.5s;
 }
 .section4-box img {
   width: 100%;
