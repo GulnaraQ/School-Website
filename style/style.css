@@ -78,18 +78,19 @@ header {
   margin: 20px 0 30px;
 }
 .BTN {
+  border: 1px solid #0193dc;
   display: inline-block;
   background-color: #0193dc;
   color: white;
   padding: 7px 40px;
   border-radius: 5px;
   letter-spacing: 0.7px;
+  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 .BTN:hover {
   background-color: white;
   color: #0193dc;
   border: 1px solid #0193dc;
-  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 /*home header end */
 
@@ -244,9 +245,9 @@ header {
 }
 .left-box-img img {
   border-radius: 4px;
+  transition: 0.3s cubic-bezier(0.895, 0.03, 0.685, 0.22);
 }
 .left-box-img img:hover {
-  transition: 0.3s cubic-bezier(0.895, 0.03, 0.685, 0.22);
   border-radius: 20%;
   box-shadow: 0 2px 4px 0 rgba(137, 133, 133, 0.1),
     0 3px 10px 0 rgba(150, 146, 146, 0.19);
