@@ -42,3 +42,33 @@ ul {
 .banner-boxes ul {
   padding-left: 30px;
 }
+/* header end */
+
+.lainya-section1,
+.lainya-section2 {
+  border: 2px solid #dfdfdf;
+  border-radius: 5px;
+  width: 80%;
+  margin: 50px auto;
+  line-height: 32px;
+}
+.lainya-section1 h2,
+.lainya-section2 h2 {
+  font-size: 24px;
+  background-color: #2ba7e2;
+  letter-spacing: 0.7px;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  border-radius: 3px;
+}
+.lainya-section1 ol,
+.lainya-section2 p {
+  width: 80%;
+  margin: auto;
+  padding: 30px 0;
+  color: #3a4e50;
+}
+.lainya-section2 p {
+  text-align: center;
+}
